@@ -40,3 +40,13 @@ Finally, inside the "World Wide Web Services" folder, enter the "Common HTTP Fea
 
 </p>
 <br />
+
+<p>
+To confirm that the installation of IIS was correct, go to a web browser and enter the localhost IP: 127.0.0.1. If your window looks like the example below, you are good to go.
+</p>
+<p>
+  
+![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/94606d1b-5fc5-4384-92b4-d1ab2067d715)
+
+</p>
+<br />
