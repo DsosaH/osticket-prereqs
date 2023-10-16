@@ -27,3 +27,16 @@ In order to do this, we need to access "Windows Features" by following the next 
 
 </p>
 <br />
+<p>
+Inside "Windows Features", make sure to check "Internet Information Services".
+Then enable CGI by going the following route: <ins>Internet Information Services -> World Wide Web -> Application Development Features.</ins>
+Finally, inside the "World Wide Web Services" folder, enter the "Common HTTP Features", make sure all the options are enabled, and click OK to begin the installation.
+</p>
+<p>
+  
+![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/02fd3e67-9a14-4836-af2d-ec05fe9fdd87)
+![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/c1622e18-a4ed-49a8-84ec-a1f89fdfd58e)
+![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/b48d5bc2-48fc-4046-9a59-691214cab01a)
+
+</p>
+<br />
