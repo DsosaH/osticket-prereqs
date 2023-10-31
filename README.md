@@ -190,3 +190,20 @@ Next, we'll need to download and install some software in order to help OSticket
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/36a761bc-ac25-4132-a223-ddb7ef5653cc)
 
 </p>
+<p>
+  Finally, we'll try to log in by following this link in your browser: http://localhost/osTicket/scp/login.php <br>
+  You should see the next screen.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/08691499-f790-4dc8-9807-e18b52a80387)
+
+</p>
+<p>
+  Enter the admin user and password you create it and is you see the next scree, you are good to go with this section.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/8701557f-a376-4d1a-978a-7fa5c5e7fe4d)
+
+</p>
