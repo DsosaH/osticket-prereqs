@@ -200,7 +200,7 @@ Next, we'll need to download and install some software in order to help OSticket
 
 </p>
 <p>
-  Enter the admin user and password you create it and is you see the next screen, you are good to go with this section.
+  Enter the admin user and password you created and is you see the next screen, you are good to go with this section.
 </p>
 <p>
 
