@@ -66,6 +66,7 @@ Next, we'll need to download and install some software in order to help OSticket
   Download the .ZIP of the most stable version of <b>PHP</b> and extract the contents inside the recently created PHP directory.
 </p>
 <p>
-  
+  Then download and install the current version of <b>MySQL</b>. Follow the next steps in order to make a correct installation:<br>
+  <ins>Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Install As Windows Service -> Choose and note down your new root password.</ins>
 </p>
 <br/>
