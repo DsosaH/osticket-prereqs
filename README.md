@@ -164,5 +164,29 @@ Next, we'll need to download and install some software in order to help OSticket
 </p><br/>
 <p>
   Download the most stable version of "HeidiSQL" and install it then launch the software.<br>
-  Inside "HeidiSQL" start a new session by clicking the new button, the insert the previously created password during the installation of "MySQL" and click open.
+  Inside "HeidiSQL" start a new session by clicking the new button, the insert the previously created password during the installation of "MySQL" and click open.<br>
+  Right click "Unnamed", click "Create New" and select "Database". Choose a name for your data base create it.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/e1afc46f-f5b3-45a4-afe2-22c78b744978)
+
+</p>
+<p>
+  Now that the database is up, go to the browser and fill the database setting fields with the fitting info. Finally click install and wait.<br>
+  If everything went right, you should see this screen.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/37aba374-dc36-4e21-92c9-9522e55de2ec)
+
+</p>
+<p>
+  Before finishing up, let's do some clean up and check that everything works just fine.<br>
+  First, inside "C:\inetpub\wwwroot\osTicket" delete "setup". Then, go to  "C:\inetpub\wwwroot\osTicket\include" and set "ost-config.php" to "Read Only" in it's properties.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/36a761bc-ac25-4132-a223-ddb7ef5653cc)
+
 </p>
