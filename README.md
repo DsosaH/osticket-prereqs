@@ -103,3 +103,49 @@ Next, we'll need to download and install some software in order to help OSticket
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/d2b29a2b-01d9-414a-a666-8e12260adc30)
 
 </p>
+<br/>
+<p>
+  Inside ISS Manager follow <ins>sites -> Default -> osTicket</ins>. There click  “Browse *:80” to open an osTicket installer in the browser, but don't touch it yet, first we need to enable some extensions.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/bbc31f4d-6f81-4a0e-b652-0f1078ad54d7)
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/9d879499-ab3d-43ba-b0cc-b809e3015af5)
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/612f6c05-5203-456a-a408-b261bdb2857a)
+
+</p>
+<p>
+  Enter PHP Manager inside the osTicket folder and click “Enable or disable an extension”. <br>Enable:
+  <ul>
+    <li>php_imap.dll</li>
+    <li>php_intl.dll</li>
+    <li>php_opcache.dll</li>
+  </ul>
+  
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/8f875543-52f3-442e-a9e4-94d1e8e0fdcf)
+  
+</p>
+<p>
+  After you are done with the extensions, refresh your browser and the page should now look like this.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/31f55a2e-eb79-4eb4-9088-1e8c4ad12e3a)
+
+</p>
+<p>
+  Rename "ost-sampleconfig.php" to "ost-config.php" in "C:\inetpub\wwwroot\osTicket\include".<br>
+  Then inside the "Properties" of "ost-config.php", enter the Security tab and click on Advanced. There, disable inheritance and remove all inherited permissions for this object.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/22da3c42-6779-4b6e-95bc-f178ff91503c)
+![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/4d5824a1-70a8-40ca-957e-e603ab494745)
+
+</p>
+<p>
+  
+</p>
