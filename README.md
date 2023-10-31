@@ -94,3 +94,12 @@ Next, we'll need to download and install some software in order to help OSticket
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/5ef256ab-4d88-440c-9da6-fa98af2234ad)
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/fdbcbb0e-dacd-4d39-ade7-c19063c6f3ee)
 </p>
+<br/>
+<p>
+  Download the most stable version of OSticket. Extract the "Upload" folder into "c:\inetpub\wwwroot" and rename the folder to "osTicket". Restart the manager server once again.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/d2b29a2b-01d9-414a-a666-8e12260adc30)
+
+</p>
