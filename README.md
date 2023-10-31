@@ -147,5 +147,22 @@ Next, we'll need to download and install some software in order to help OSticket
 
 </p>
 <p>
+  Now, we'll give this file new permissions.<br>
+  Click "Add" -> "Select a Principal", type "Everyone" and check for names. Click ok.<br>
+  Check "Full Control" then Ok. Apply and close.
+</p>
+<p>
   
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/3830c6c1-0572-4c43-9ab1-9cf6ec1531e9)
+
+</p>
+<br/>
+<p>
+  Now we can go to the browser and click "Continue" to continue the setting up.<br>
+  Choose a name for your desk and a default email. Fill the fields with the desired info.<br>
+  Before we can install, we need to set up our Database. For this, we'll install "HeidiSQL".
+</p><br/>
+<p>
+  Download the most stable version of "HeidiSQL" and install it then launch the software.<br>
+  Inside "HeidiSQL" start a new session by clicking the new button, the insert the previously created password during the installation of "MySQL" and click open.
 </p>
