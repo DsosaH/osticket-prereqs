@@ -18,8 +18,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-First, we need to install and enable IIS on Windows and <b>make sure that CGI and Common HTTP Features are enabled.</b>
-In order to do this, we need to access "Windows Features" by following the next route: <ins>Control Panel -> Programs -> Programs and Features - > Turn Windows features on or off. </ins>
+First, we need to install and enable IIS on Windows and <b>make sure that CGI and Common HTTP Features are enabled.</b><br>
+In order to do this, we need to access "Windows Features" by following the next route:<br> <ins>Control Panel -> Programs -> Programs and Features - > Turn Windows features on or off. </ins>
 </p>
 <p>
   
@@ -28,8 +28,8 @@ In order to do this, we need to access "Windows Features" by following the next 
 </p>
 <br />
 <p>
-Inside "Windows Features", make sure to check "Internet Information Services".
-Then enable CGI by going the following route: <ins>Internet Information Services -> World Wide Web -> Application Development Features.</ins>
+Inside "Windows Features", make sure to check "Internet Information Services".<br>
+Then enable CGI by going the following route: <ins>Internet Information Services -> World Wide Web -> Application Development Features.</ins><br>
 Finally, inside the "World Wide Web Services" folder, enter the "Common HTTP Features", make sure all the options are enabled, and click OK to begin the installation.
 </p>
 <p>
@@ -51,11 +51,21 @@ To confirm that the installation of IIS was correct, go to a web browser and ent
 </p>
 <br />
 <p>
-Next, we'll need to download and install some software in order to help OSticket correct installation. Search for the files on the WEB and install the current version of **PHP Manager for IIS** and **Rewrite Module**.
+Next, we'll need to download and install some software in order to help OSticket correct installation. Search for the files on the WEB and install the current version of <b>PHP Manager for IIS</b>, <b>Rewrite Module</b> and <b>VC_redist</b>.
+</p>
+<p>
+ Next, we'll need to install <b>PHP</b> current version.<br>
+ Create the next directory -> C:\PHP
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/4339bd41-3737-48d6-b5d2-c236a2f7e380)
+  
+</p>
+<p>
+  Download the .ZIP of the most stable version of <b>PHP</b> and extract the contents inside the recently created PHP directory.
 </p>
 <p>
   
-
-
 </p>
-<br />
+<br/>
