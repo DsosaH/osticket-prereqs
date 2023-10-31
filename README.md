@@ -92,6 +92,5 @@ Next, we'll need to download and install some software in order to help OSticket
 
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/2e6f8eed-b811-4561-ab8c-ecefdb197318)
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/5ef256ab-4d88-440c-9da6-fa98af2234ad)
-  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/c75bdcd9-982f-430b-b03c-7ee399d69380)
-
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/fdbcbb0e-dacd-4d39-ade7-c19063c6f3ee)
 </p>
