@@ -42,7 +42,7 @@ Finally, inside the "World Wide Web Services" folder, enter the "Common HTTP Fea
 <br />
 
 <p>
-To confirm that the installation of IIS was correct, go to a web browser and enter the localhost IP: 127.0.0.1. If your window looks like the example below, you are good to go.
+To confirm that the installation of IIS was correct, go to a web browser and enter the localhost IP: 127.0.0.1 If your window looks like the example below, you are good to go.
 </p>
 <p>
   
