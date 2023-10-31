@@ -70,3 +70,28 @@ Next, we'll need to download and install some software in order to help OSticket
   <ins>Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Install As Windows Service -> Choose and note down your new root password.</ins>
 </p>
 <br/>
+
+<p>
+  Now we'll make some configurations inside <b>Internet Informacion Services (IIS) Manager</b> to prepare for the installation of the OSticket software. 
+</p>
+<p>
+  
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/645a357c-d14b-4417-a6d8-3c382885497c) 
+</p>
+<p>
+  Inside <b>IIS</b> we'll register the <b>PHP</b> directory we made before. First, go into the PHP Manager option.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/99b0ec93-d0cc-4c8a-809c-9b7f87cad8ec)
+</p>
+<p>
+  Inside, click on the "Register new PHP Version option" and look for the "php-cgi.exe" inside our PHP directory to select as the file. Click ok and then restart the manager server.
+</p>
+<p>
+
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/2e6f8eed-b811-4561-ab8c-ecefdb197318)
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/5ef256ab-4d88-440c-9da6-fa98af2234ad)
+  ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/c75bdcd9-982f-430b-b03c-7ee399d69380)
+
+</p>
