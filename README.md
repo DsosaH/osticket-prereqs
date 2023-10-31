@@ -50,3 +50,12 @@ To confirm that the installation of IIS was correct, go to a web browser and ent
 
 </p>
 <br />
+<p>
+Next, we'll need to download and install some software in order to help OSticket correct installation. Search for the files on the WEB and install the current version of **PHP Manager for IIS** and **Rewrite Module**.
+</p>
+<p>
+  
+
+
+</p>
+<br />
