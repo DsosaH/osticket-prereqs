@@ -72,7 +72,7 @@ Next, we'll need to download and install some software in order to help OSticket
 <br/>
 
 <p>
-  Now we'll make some configurations inside <b>Internet Informacion Services (IIS) Manager</b> to prepare for the installation of the OSticket software. 
+  Now we'll make some configurations inside <b>Internet Information Services (IIS) Manager</b> to prepare for the installation of the OSticket software. 
 </p>
 <p>
   
@@ -115,7 +115,7 @@ Next, we'll need to download and install some software in order to help OSticket
 
 </p>
 <p>
-  Enter PHP Manager inside the osTicket folder and click “Enable or disable an extension”. <br>Enable:
+  Enter PHP Manager, inside the osTicket folder and click “Enable or disable an extension”. <br>Enable:
   <ul>
     <li>php_imap.dll</li>
     <li>php_intl.dll</li>
@@ -165,7 +165,7 @@ Next, we'll need to download and install some software in order to help OSticket
 <p>
   Download the most stable version of "HeidiSQL" and install it then launch the software.<br>
   Inside "HeidiSQL" start a new session by clicking the new button, the insert the previously created password during the installation of "MySQL" and click open.<br>
-  Right click "Unnamed", click "Create New" and select "Database". Choose a name for your data base create it.
+  Right click "Unnamed", click "Create New" and select "Database". Choose a name for your database created.
 </p>
 <p>
 
@@ -173,7 +173,7 @@ Next, we'll need to download and install some software in order to help OSticket
 
 </p>
 <p>
-  Now that the database is up, go to the browser and fill the database setting fields with the fitting info. Finally click install and wait.<br>
+  Now that the database is up, go to the browser and fill the database setting fields with the fitting info. Finally, click install and wait.<br>
   If everything went right, you should see this screen.
 </p>
 <p>
@@ -183,7 +183,7 @@ Next, we'll need to download and install some software in order to help OSticket
 </p>
 <p>
   Before finishing up, let's do some clean up and check that everything works just fine.<br>
-  First, inside "C:\inetpub\wwwroot\osTicket" delete "setup". Then, go to  "C:\inetpub\wwwroot\osTicket\include" and set "ost-config.php" to "Read Only" in it's properties.
+  First, inside "C:\inetpub\wwwroot\osTicket" delete "setup". Then, go to  "C:\inetpub\wwwroot\osTicket\include" and set "ost-config.php" to "Read Only" in its properties.
 </p>
 <p>
 
