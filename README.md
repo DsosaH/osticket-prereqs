@@ -207,3 +207,8 @@ Next, we'll need to download and install some software in order to help OSticket
   ![image](https://github.com/DsosaH/osticket-prereqs/assets/148100125/8701557f-a376-4d1a-978a-7fa5c5e7fe4d)
 
 </p>
+<p>
+  
+  [Part 2: Post-configuration](https://github.com/DsosaH/osticket-postconfg)
+  
+</p>
